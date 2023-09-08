@@ -1,2 +1,3 @@
 # GameDev2023NEW
-game dev class again
+
+https://iiboredom.github.io/GameDev2023NEW/public/index.html
